@@ -1,0 +1,11 @@
+{
+  "name": "permutater",
+  "version": "1.0.0",
+  "description": "Permutater",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "author": "Cosmin Budinschi",
+  "license": "MIT"
+}
