@@ -1,6 +1,6 @@
 {
   "name": "permutater",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Permutater",
   "main": "index.js",
   "author": "Cosmin Budinschi",
@@ -9,10 +9,10 @@
     "test": "node ./tests"
   },
   "keywords": [
-      "permutation"
+    "permutation"
   ],
   "engines": {
-      "node": ">= 6.10.0"
+    "node": ">= 6.10.0"
   },
   "license": "MIT"
 }
