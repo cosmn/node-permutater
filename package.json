@@ -1,11 +1,18 @@
 {
   "name": "permutater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Permutater",
   "main": "index.js",
+  "author": "Cosmin Budinschi",
+  "repository": "cosmn/node-permutater",
   "scripts": {
     "test": "node ./tests"
   },
-  "author": "Cosmin Budinschi",
+  "keywords": [
+      "permutation"
+  ],
+  "engines": {
+      "node": ">= 6.10.0"
+  },
   "license": "MIT"
 }
