@@ -40,3 +40,10 @@ permutater({
 })
 // ['fn6p3', 'x83na', '3v20r' ... ].length = 30
 ```
+```javascript
+permutater({
+    characters : 'abcdefghijklmnopqrstuvwxyz0123456789'.split(''),
+    length : 8,
+})
+// out of memory
+```
